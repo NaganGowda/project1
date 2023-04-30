@@ -1,0 +1,10 @@
+.bg-container {
+  background-color: #214875;
+  padding: 3px;
+}
+
+.card-container {
+  background-color: #f7fbff;
+  padding: 10px;
+  margin: 10px;
+}
